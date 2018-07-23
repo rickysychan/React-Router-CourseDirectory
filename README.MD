@@ -9,4 +9,4 @@ A web applicaiton with complex and dynamic routing that demonstrates the complex
 ![This is the Teachers page](https://github.com/rickysychan/React-Router-CourseDirectory/blob/master/imgs/Teachers.png)
 
 ### Home Page
-![This is the courses page](https://github.com/rickysychan/React-Router-CourseDirectory/blob/master/imgs/Courses.png)
+![This is the home page](https://github.com/rickysychan/React-Router-CourseDirectory/blob/master/imgs/Home.png)
