@@ -1,6 +1,6 @@
 # React-scoreboard
 
-A web applicaiton with complex and dynamic routing that demonstrates the complexities of client side rendering and their solutions.
+A web applicaiton with complex and dynamic routing that demonstrates the complexities of client side rendering and their solutions using the React router package.
 
 ### Courses Page
 ![This is the courses page](https://github.com/rickysychan/React-Router-CourseDirectory/blob/master/imgs/Courses.png)
