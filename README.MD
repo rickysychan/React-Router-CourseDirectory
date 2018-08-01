@@ -15,4 +15,4 @@ A web applicaiton with complex and dynamic routing that demonstrates the complex
 ## How to Use
 
 1) npm install
-2) npm run
+2) npm start
